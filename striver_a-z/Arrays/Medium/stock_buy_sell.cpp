@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-//
+// https://takeuforward.org/data-structure/stock-buy-and-sell/
 
+// optimal approach
 class Solution
 {
 public:
